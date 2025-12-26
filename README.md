@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="images/hero_banner.png" width="900">
+  <img src="images/hero_banner1.png" width="900">
 </p>
 
 # 📊 Walmart Sales Analytics — Python ETL + PostgreSQL Analysis
